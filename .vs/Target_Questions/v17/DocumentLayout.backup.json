@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\source\\repos\\Target_Questions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE397076-BA9C-4E66-BB1E-251B37CE2C86}|Target_Questions\\Target_Questions.csproj|c:\\users\\marce\\source\\repos\\target_questions\\target_questions\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE397076-BA9C-4E66-BB1E-251B37CE2C86}|Target_Questions\\Target_Questions.csproj|solutionrelative:target_questions\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE397076-BA9C-4E66-BB1E-251B37CE2C86}|Target_Questions\\Target_Questions.csproj|c:\\users\\marce\\source\\repos\\target_questions\\target_questions\\providers\\checkstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE397076-BA9C-4E66-BB1E-251B37CE2C86}|Target_Questions\\Target_Questions.csproj|solutionrelative:target_questions\\providers\\checkstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE397076-BA9C-4E66-BB1E-251B37CE2C86}|Target_Questions\\Target_Questions.csproj|c:\\users\\marce\\source\\repos\\target_questions\\target_questions\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE397076-BA9C-4E66-BB1E-251B37CE2C86}|Target_Questions\\Target_Questions.csproj|solutionrelative:target_questions\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE397076-BA9C-4E66-BB1E-251B37CE2C86}|Target_Questions\\Target_Questions.csproj|c:\\users\\marce\\source\\repos\\target_questions\\target_questions\\providers\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE397076-BA9C-4E66-BB1E-251B37CE2C86}|Target_Questions\\Target_Questions.csproj|solutionrelative:target_questions\\providers\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckString.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Target_Questions\\Target_Questions\\Providers\\CheckString.cs",
+              "RelativeDocumentMoniker": "Target_Questions\\Providers\\CheckString.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Target_Questions\\Target_Questions\\Providers\\CheckString.cs",
+              "RelativeToolTip": "Target_Questions\\Providers\\CheckString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:36:52.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Target_Questions\\Target_Questions\\Providers\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Target_Questions\\Providers\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Target_Questions\\Target_Questions\\Providers\\Fibonacci.cs",
+              "RelativeToolTip": "Target_Questions\\Providers\\Fibonacci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:32:43.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interface.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Target_Questions\\Target_Questions\\Interface.cs",
+              "RelativeDocumentMoniker": "Target_Questions\\Interface.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Target_Questions\\Target_Questions\\Interface.cs [Projeto]*",
+              "RelativeToolTip": "Target_Questions\\Interface.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:29:42.064Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Target_Questions\\Target_Questions\\Interface.cs",
+              "RelativeDocumentMoniker": "Target_Questions\\Interface.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Target_Questions\\Target_Questions\\Interface.cs*",
+              "RelativeToolTip": "Target_Questions\\Interface.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:08:30.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

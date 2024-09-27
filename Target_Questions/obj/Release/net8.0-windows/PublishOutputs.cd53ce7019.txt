@@ -1,0 +1,5 @@
+C:\Users\marce\source\repos\Target_Questions\app\Target_Questions.exe
+C:\Users\marce\source\repos\Target_Questions\app\Target_Questions.dll
+C:\Users\marce\source\repos\Target_Questions\app\Target_Questions.deps.json
+C:\Users\marce\source\repos\Target_Questions\app\Target_Questions.runtimeconfig.json
+C:\Users\marce\source\repos\Target_Questions\app\Target_Questions.pdb

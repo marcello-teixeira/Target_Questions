@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\bin\Release\net8.0-windows\Target_Questions.exe
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\bin\Release\net8.0-windows\Target_Questions.deps.json
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\bin\Release\net8.0-windows\Target_Questions.runtimeconfig.json
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\bin\Release\net8.0-windows\Target_Questions.dll
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\bin\Release\net8.0-windows\Target_Questions.pdb
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\Target_Questions.Interface.resources
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\Target_Questions.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\Target_Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\Target_Questions.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\Target_Questions.AssemblyInfo.cs
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\Target_Questions.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\Target_Questions.dll
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\refint\Target_Questions.dll
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\Target_Questions.pdb
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\Target_Questions.genruntimeconfig.cache
+C:\Users\marce\source\repos\Target_Questions\Target_Questions\obj\Release\net8.0-windows\ref\Target_Questions.dll
